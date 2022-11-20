@@ -1,0 +1,1 @@
+# bootstrap動作テスト
